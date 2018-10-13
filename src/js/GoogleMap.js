@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-const google = window.google;g
+const google = window.google;
 
 class GoogleMap extends React.Component {
 
